@@ -5,7 +5,9 @@
   height: 500px;
   padding:25px;     
 } 
-
+body{
+    overflow-x: hidden !important;
+}
 
 }
 h4{
